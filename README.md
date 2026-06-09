@@ -13,7 +13,7 @@
 
 <ul>
 <li>
-<p>🔭 I’m currently working as a <strong>Cloud DevOps Engineer Intern at SAP</strong> and building a WhatsApp reservation bot using <strong>Node.js and TypeScript</strong>.</p>
+<p>🔭 I’m currently working as a <strong>Cloud DevOps Engineer Intern at SAP</strong></p>
 </li>
 <li>
 <p>🌱 I’m currently studying for my <strong>AWS Certified Cloud Practitioner</strong> and <strong>Microsoft Azure Administrator (AZ-104)</strong> certifications.</p>
@@ -31,7 +31,7 @@
 <p>📫 Feel free to reach me out on <strong><a href="mailto:lucas.zampronio.silva@gmail.com">lucas.zampronio.silva@gmail.com</a></strong></p>
 </li>
 <li>
-<p>⚡ Fun fact: When I'm not coding, I'm probably training Muay Thai, playing PC games, or managing my brownie brand, Crownkies! 🍪</p>
+<p>⚡ Fun fact: When I'm not coding, I'm probably painting or playing PC games</p>
 </li>
 </ul>
 <p align="center">
