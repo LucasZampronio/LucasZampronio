@@ -5,12 +5,6 @@
   </ul>
 </div>
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
-  </ul>
-</div>
-
 <ul>
 <li>
 <p>🔭 I’m currently working as a <strong>Cloud DevOps Engineer Intern at SAP</strong></p>
