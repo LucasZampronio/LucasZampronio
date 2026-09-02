@@ -7,19 +7,10 @@
 
 <ul>
 <li>
-<p>🔭 I’m currently working as a <strong>Cloud DevOps Engineer Intern at SAP</strong></p>
-</li>
-<li>
-<p>🌱 I’m currently studying for my <strong>AWS Certified Cloud Practitioner</strong> and <strong>Microsoft Azure Administrator (AZ-104)</strong> certifications.</p>
+<p>🔭 I’m currently working as a <strong>Cloud DevOps Enginee  at SAP</strong></p>
 </li>
 <li>
 <p>☁️ I have a keen interest in <strong>backend engineering, system architecture, microservices, and cloud infrastructure</strong>.</p>
-</li>
-<li>
-<p>📝 I have experience as an Academic Teaching Fellow at IFRS delivering workshops on <strong>Python programming, algorithms, and data structures</strong>.</p>
-</li>
-<li>
-<p>💬 Ask me about <strong>TypeScript, Node.js, Python, C#, and CI/CD pipelines</strong>.</p>
 </li>
 <li>
 <p>📫 Feel free to reach me out on <strong><a href="mailto:lucas.zampronio.silva@gmail.com">lucas.zampronio.silva@gmail.com</a></strong></p>
