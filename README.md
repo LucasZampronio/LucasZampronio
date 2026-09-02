@@ -7,7 +7,7 @@
 
 <ul>
 <li>
-<p>🔭 I’m currently working as a <strong>Cloud DevOps Enginee  at SAP</strong></p>
+<p>🔭 I’m currently working as a <strong>Cloud DevOps Engineer  at SAP</strong></p>
 </li>
 <li>
 <p>☁️ I have a keen interest in <strong>backend engineering, system architecture, microservices, and cloud infrastructure</strong>.</p>
